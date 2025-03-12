@@ -1,0 +1,11 @@
+{
+    "Global": {
+        "notifEye": {
+            "location": "scopes",
+            "fieldDefs": {
+                "type": "bool",
+                "tooltip": true
+            }
+        }
+    }
+}

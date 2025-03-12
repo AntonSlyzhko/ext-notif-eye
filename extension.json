@@ -1,14 +1,14 @@
 {
-    "module": "{@name}",
-    "name": "{@nameLabel}",
-    "description": "{@description}",
-    "author": "{@author}",
-    "bundled": {@bundled},
+    "module": "NotifEye",
+    "name": "NotifEye",
+    "description": "Stay informed and streamline your workflow with highlighting unread notifications in your lists.",
+    "author": "Anton Slyzhko",
+    "bundled": true,
     "acceptableVersions": [
-        ">=7.3.0"
+        ">=9.0.0"
     ],
     "php": [
-        ">=7.2"
+        ">=8.2"
     ],
     "scripts": []
 }

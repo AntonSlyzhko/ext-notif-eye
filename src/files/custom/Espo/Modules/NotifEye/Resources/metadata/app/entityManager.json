@@ -1,0 +1,6 @@
+{
+    "updateHookClassNameList": [
+        "__APPEND__",
+        "Espo\\Modules\\NotifEye\\Tools\\EntityManager\\Hooks\\NotifEyeUpdateHook"
+    ]
+}
